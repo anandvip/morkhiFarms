@@ -1,2 +1,2 @@
 # morkhiFarms
-direct selling app for farmer producing poultry, milk &amp; vegetables
+Direct selling of farm produce. An app for farmer producing poultry, milk &amp; vegetables
