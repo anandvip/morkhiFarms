@@ -92,7 +92,7 @@
       font-size: 1.5rem;
   }
   .brandText{
-      color:#523B27;
+      color:#523b27;
   }
   .instruction{
       font-size: 0.7rem;
@@ -107,4 +107,8 @@
   .footerText{
       font-size: 0.7rem;
       color: rgb(111, 111, 111);
+  }
+  .callUs{
+    border:2px #523b27 solid;
+    border-radius: 5px;
   }
