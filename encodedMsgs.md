@@ -8,7 +8,7 @@ Kindly%20deliver%20%2AOne%20Tray%20of%20Eggs%2A%2C%20%20Thanks
 3. _More Than One Tray_
 
 Kindly%20deliver%20%2ATwo%20Trays%20of%20Eggs%2A
-### Eggs FeedBack
+#### Eggs FeedBack
 
 My%20%2AFeedback%20on%20Eggs%3A%2A
 
@@ -29,7 +29,7 @@ _Milk Bulk_
 
 My%20%2AFeedback%20on%20Milk%20%3A%2A
 
-_Milk FeedBack_
+#### _Milk FeedBack_
 
 My%20%2AFeedback%20on%20Milk%20%3A%2A
 
