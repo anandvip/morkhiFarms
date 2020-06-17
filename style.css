@@ -6,11 +6,11 @@
     margin:0;
   }
   h4{
-      margin-bottom: 1px;
+      margin-bottom: 50px;
       padding-bottom: 1px;
   }
   h3{
-      margin-top: 5px;
+      margin-bottom: 90px;
       letter-spacing: 5px;
   }
   .content {
@@ -38,6 +38,7 @@
   }
   
   .wrapper {
+          margin-top: 60px;
           font-family: 'Inria Sans', sans-serif;
           display: grid;
           grid-gap: 10px;
